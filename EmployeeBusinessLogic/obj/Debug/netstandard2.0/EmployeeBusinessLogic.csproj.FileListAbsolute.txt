@@ -6,3 +6,10 @@ D:\dev\c#\kop\EmployeeBusinessLogic\obj\Debug\netstandard2.0\EmployeeBusinessLog
 D:\dev\c#\kop\EmployeeBusinessLogic\obj\Debug\netstandard2.0\EmployeeBusinessLogic.AssemblyInfo.cs
 D:\dev\c#\kop\EmployeeBusinessLogic\obj\Debug\netstandard2.0\EmployeeBusinessLogic.dll
 D:\dev\c#\kop\EmployeeBusinessLogic\obj\Debug\netstandard2.0\EmployeeBusinessLogic.pdb
+C:\prog\progiunik\kop\EmployeeBusinessLogic\bin\Debug\netstandard2.0\EmployeeBusinessLogic.deps.json
+C:\prog\progiunik\kop\EmployeeBusinessLogic\bin\Debug\netstandard2.0\EmployeeBusinessLogic.dll
+C:\prog\progiunik\kop\EmployeeBusinessLogic\bin\Debug\netstandard2.0\EmployeeBusinessLogic.pdb
+C:\prog\progiunik\kop\EmployeeBusinessLogic\obj\Debug\netstandard2.0\EmployeeBusinessLogic.AssemblyInfoInputs.cache
+C:\prog\progiunik\kop\EmployeeBusinessLogic\obj\Debug\netstandard2.0\EmployeeBusinessLogic.AssemblyInfo.cs
+C:\prog\progiunik\kop\EmployeeBusinessLogic\obj\Debug\netstandard2.0\EmployeeBusinessLogic.dll
+C:\prog\progiunik\kop\EmployeeBusinessLogic\obj\Debug\netstandard2.0\EmployeeBusinessLogic.pdb

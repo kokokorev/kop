@@ -1,0 +1,7 @@
+C:\prog\progiunik\kop\EmployeeDatabase\bin\Debug\EmployeeDatabase.dll
+C:\prog\progiunik\kop\EmployeeDatabase\bin\Debug\EmployeeDatabase.pdb
+C:\prog\progiunik\kop\EmployeeDatabase\bin\Debug\System.ComponentModel.Annotations.dll
+C:\prog\progiunik\kop\EmployeeDatabase\obj\Debug\EmployeeDatabase.csprojAssemblyReference.cache
+C:\prog\progiunik\kop\EmployeeDatabase\obj\Debug\EmployeeDatabase.csproj.CopyComplete
+C:\prog\progiunik\kop\EmployeeDatabase\obj\Debug\EmployeeDatabase.dll
+C:\prog\progiunik\kop\EmployeeDatabase\obj\Debug\EmployeeDatabase.pdb

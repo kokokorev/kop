@@ -13,5 +13,9 @@ namespace EmployeeBusinessLogic.ViewModel
         [DisplayName("Начало отпуска")] public DateTime? VacationStart { get; set; }
 
         [DisplayName("Должность")] public Position Position { get; set; }
+
+        [DisplayName("Подразделение")] public Subdivision Subdivision { get; set; }
+
+        [DisplayName("Рабочий телефон")] public string WorkPhone { get; set; }
     }
 }

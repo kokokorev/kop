@@ -9,3 +9,14 @@ D:\dev\c#\kop\EmployeeDatabase\bin\Debug\netstandard2.0\EmployeeBusinessLogic.pd
 D:\dev\c#\kop\EmployeeDatabase\obj\Debug\netstandard2.0\EmployeeDatabase.csproj.CopyComplete
 D:\dev\c#\kop\EmployeeDatabase\obj\Debug\netstandard2.0\EmployeeDatabase.dll
 D:\dev\c#\kop\EmployeeDatabase\obj\Debug\netstandard2.0\EmployeeDatabase.pdb
+C:\prog\progiunik\kop\EmployeeDatabase\obj\Debug\netstandard2.0\EmployeeDatabase.csprojAssemblyReference.cache
+C:\prog\progiunik\kop\EmployeeDatabase\obj\Debug\netstandard2.0\EmployeeDatabase.AssemblyInfoInputs.cache
+C:\prog\progiunik\kop\EmployeeDatabase\obj\Debug\netstandard2.0\EmployeeDatabase.AssemblyInfo.cs
+C:\prog\progiunik\kop\EmployeeDatabase\obj\Debug\netstandard2.0\EmployeeDatabase.dll
+C:\prog\progiunik\kop\EmployeeDatabase\obj\Debug\netstandard2.0\EmployeeDatabase.pdb
+C:\prog\progiunik\kop\EmployeeDatabase\bin\Debug\netstandard2.0\EmployeeDatabase.deps.json
+C:\prog\progiunik\kop\EmployeeDatabase\bin\Debug\netstandard2.0\EmployeeDatabase.dll
+C:\prog\progiunik\kop\EmployeeDatabase\bin\Debug\netstandard2.0\EmployeeDatabase.pdb
+C:\prog\progiunik\kop\EmployeeDatabase\bin\Debug\netstandard2.0\EmployeeBusinessLogic.dll
+C:\prog\progiunik\kop\EmployeeDatabase\bin\Debug\netstandard2.0\EmployeeBusinessLogic.pdb
+C:\prog\progiunik\kop\EmployeeDatabase\obj\Debug\netstandard2.0\EmployeeDatabase.csproj.CopyComplete

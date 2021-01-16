@@ -26,17 +26,17 @@ namespace NonVisualComponents.Kokorev
         /// <param name="data">данные для сохранения</param>
         /// <param name="path">путь для создания бекапа</param>
         /// <typeparam name="T">какой то тип</typeparam>
-        public void CreateXmlBackup<T>(T[] data, string path)
+        public void CreateXmlBackup<T>(T data, string path)
         {
-            if (File.Exists($"{path}/backup.zip")) 
+            if (File.Exists($"{path}/backup.zip"))
                 File.Delete($"{path}/backup.zip");
             var type = data.GetType();
-            if (!type.IsSerializable) 
+            if (!type.IsSerializable)
                 throw new Exception("Класс не сериализуемый");
-            
+
             try
             {
-                var serializer = new XmlSerializer(typeof(T[]));
+                var serializer = new XmlSerializer(typeof(T));
                 var tempPath = $"{path}/temp";
                 var tempDir = Directory.CreateDirectory(tempPath);
                 var pathXml = $"{tempPath}/backup.xml";

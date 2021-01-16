@@ -33,8 +33,15 @@ namespace EmployeeDatabase.Migrations
                     b.Property<int>("Position")
                         .HasColumnType("int");
 
+                    b.Property<int>("Subdivision")
+                        .HasColumnType("int");
+
                     b.Property<DateTime?>("VacationStart")
                         .HasColumnType("datetime2");
+
+                    b.Property<string>("WorkPhone")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 

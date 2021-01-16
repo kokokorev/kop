@@ -5,6 +5,11 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <Compile Remove="Migrations\20210116135908_InitialCreate1.cs" />
+      <Compile Remove="Migrations\20210116135908_InitialCreate1.Designer.cs" />
+    </ItemGroup>
+
+    <ItemGroup>
       <PackageReference Include="Microsoft.AspNetCore.Mvc.DataAnnotations" Version="2.2.0" />
       <PackageReference Include="Microsoft.Data.SqlClient" Version="2.0.1" />
       <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.9" />

@@ -6631,23 +6631,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\train\\.nuget\\packages\\": {},
+    "C:\\Users\\nnwrn\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev\\c#\\kop\\EmployeeBusinessLogic\\EmployeeBusinessLogic.csproj",
+      "projectUniqueName": "C:\\prog\\progiunik\\kop\\EmployeeBusinessLogic\\EmployeeBusinessLogic.csproj",
       "projectName": "EmployeeBusinessLogic",
-      "projectPath": "D:\\dev\\c#\\kop\\EmployeeBusinessLogic\\EmployeeBusinessLogic.csproj",
-      "packagesPath": "C:\\Users\\train\\.nuget\\packages\\",
-      "outputPath": "D:\\dev\\c#\\kop\\EmployeeBusinessLogic\\obj\\",
+      "projectPath": "C:\\prog\\progiunik\\kop\\EmployeeBusinessLogic\\EmployeeBusinessLogic.csproj",
+      "packagesPath": "C:\\Users\\nnwrn\\.nuget\\packages\\",
+      "outputPath": "C:\\prog\\progiunik\\kop\\EmployeeBusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\train\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nnwrn\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6712,7 +6712,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

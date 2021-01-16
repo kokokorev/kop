@@ -29,7 +29,9 @@ namespace EmployeeDatabase.Implements
                     {
                         Fio = model.Fio,
                         VacationStart = model.VacationStart,
-                        Position = model.Position
+                        Position = model.Position,
+                        Subdivision = model.Subdivision,
+                        WorkPhone = model.WorkPhone
                     };
                     context.Employees.Add(employee);
                     context.SaveChanges();
@@ -39,6 +41,8 @@ namespace EmployeeDatabase.Implements
                 employee.Fio = model.Fio;
                 employee.VacationStart = model.VacationStart;
                 employee.Position = model.Position;
+                employee.Subdivision = model.Subdivision;
+                employee.WorkPhone = model.WorkPhone;
 
                 context.SaveChanges();
             }
@@ -55,8 +59,10 @@ namespace EmployeeDatabase.Implements
                     {
                         Id = rec.Id,
                         Fio = rec.Fio,
+                        VacationStart = rec.VacationStart,
                         Position = rec.Position,
-                        VacationStart = rec.VacationStart
+                        Subdivision = rec.Subdivision,
+                        WorkPhone = rec.WorkPhone
                     })
                     .ToList();
             }

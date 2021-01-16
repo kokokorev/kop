@@ -10,3 +10,15 @@ D:\dev\c#\kop\VisualComponents\obj\Debug\VisualComponents.Kokorev.ControlTextBox
 D:\dev\c#\kop\VisualComponents\obj\Debug\VisualComponents.Nazarova.ControlCheckedListBox.resources
 D:\dev\c#\kop\VisualComponents\obj\Debug\VisualComponents.Nazarova.ControlNumericalUpDown.resources
 D:\dev\c#\kop\VisualComponents\obj\Debug\VisualComponents.Nazarova.ControlTreeView.resources
+C:\prog\progiunik\kop\VisualComponents\bin\Debug\VisualComponents.dll
+C:\prog\progiunik\kop\VisualComponents\bin\Debug\VisualComponents.pdb
+C:\prog\progiunik\kop\VisualComponents\obj\Debug\VisualComponents.csprojAssemblyReference.cache
+C:\prog\progiunik\kop\VisualComponents\obj\Debug\VisualComponents.Kokorev.ControlComboBox.resources
+C:\prog\progiunik\kop\VisualComponents\obj\Debug\VisualComponents.Kokorev.ControlListBox.resources
+C:\prog\progiunik\kop\VisualComponents\obj\Debug\VisualComponents.Kokorev.ControlTextBox.resources
+C:\prog\progiunik\kop\VisualComponents\obj\Debug\VisualComponents.Nazarova.ControlCheckedListBox.resources
+C:\prog\progiunik\kop\VisualComponents\obj\Debug\VisualComponents.Nazarova.ControlNumericalUpDown.resources
+C:\prog\progiunik\kop\VisualComponents\obj\Debug\VisualComponents.Nazarova.ControlTreeView.resources
+C:\prog\progiunik\kop\VisualComponents\obj\Debug\VisualComponents.csproj.GenerateResource.cache
+C:\prog\progiunik\kop\VisualComponents\obj\Debug\VisualComponents.dll
+C:\prog\progiunik\kop\VisualComponents\obj\Debug\VisualComponents.pdb

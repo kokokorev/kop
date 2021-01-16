@@ -16,5 +16,15 @@ namespace EmployeeDatabase.Models
         /// должность сотрудника
         /// </summary>
         [Required] public Position Position { get; set; }
+
+        /// <summary>
+        /// подразделение
+        /// </summary>
+        [Required] public Subdivision Subdivision { get; set; }
+
+        /// <summary>
+        /// рабочий телефон
+        /// </summary>
+        [Required] public string WorkPhone { get; set; }
     }
 }

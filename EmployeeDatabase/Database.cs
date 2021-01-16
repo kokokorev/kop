@@ -10,7 +10,7 @@ namespace EmployeeDatabase
             if (optionsBuilder.IsConfigured == false)
             {
                 optionsBuilder.UseSqlServer(
-                    @"Data Source=NIA\SQLEXPRESS;Initial Catalog=RepairWorkShopDatabase;Integrated Security=True;MultipleActiveResultSets=True;");
+                    @"Data Source=JULIAZAVR\SQLEXPRESS;Initial Catalog=EmployeeDatabase;Integrated Security=True;MultipleActiveResultSets=True;");
             }
 
             base.OnConfiguring(optionsBuilder);

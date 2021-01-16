@@ -18,6 +18,7 @@ namespace EmployeeView
             InitializeComponent();
             this.employeeService = employeeService;
             controlSelectedComboBoxEnum.LoadEnum(typeof(Position));
+            controlSelectedComboBoxEnumSubvision.LoadEnum(typeof(Subdivision));
         }
 
         private void saveButton_Click(object sender, EventArgs e)
@@ -27,9 +28,11 @@ namespace EmployeeView
                 employeeService.CreateOrUpdate(new EmployeeBindingModel
                 {
                     Fio = fioTextBox.Text,
-                    Position = (Position) controlSelectedComboBoxEnum.SelectedItem,
-                    VacationStart = DateTime.Now
-            });
+                    Position = (Position)controlSelectedComboBoxEnum.SelectedItem,
+                    VacationStart = DateTime.Now,
+                    Subdivision = (Subdivision)controlSelectedComboBoxEnumSubvision.SelectedItem,
+                    WorkPhone = textBoxWorkForm.Text
+                });
                 MessageBox.Show("Сохранение прошло успешно", "Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 DialogResult = DialogResult.OK;
                 Close();

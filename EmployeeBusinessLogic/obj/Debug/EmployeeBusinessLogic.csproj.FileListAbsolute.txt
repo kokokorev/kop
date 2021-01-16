@@ -1,0 +1,8 @@
+C:\prog\progiunik\kop\EmployeeBusinessLogic\bin\Debug\EmployeeBusinessLogic.dll
+C:\prog\progiunik\kop\EmployeeBusinessLogic\bin\Debug\EmployeeBusinessLogic.pdb
+C:\prog\progiunik\kop\EmployeeBusinessLogic\bin\Debug\EmployeeDatabase.dll
+C:\prog\progiunik\kop\EmployeeBusinessLogic\bin\Debug\EmployeeDatabase.pdb
+C:\prog\progiunik\kop\EmployeeBusinessLogic\obj\Debug\EmployeeBusinessLogic.csprojAssemblyReference.cache
+C:\prog\progiunik\kop\EmployeeBusinessLogic\obj\Debug\EmployeeBusinessLogic.csproj.CopyComplete
+C:\prog\progiunik\kop\EmployeeBusinessLogic\obj\Debug\EmployeeBusinessLogic.dll
+C:\prog\progiunik\kop\EmployeeBusinessLogic\obj\Debug\EmployeeBusinessLogic.pdb
